@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1703.5
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkflowMigration", "TestOrkesSDK\WorkflowMigration.csproj", "{09AC1853-183C-4B9E-8F01-C9EC3DBA61D0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkflowMigration", "WorkflowMigration\WorkflowMigration.csproj", "{09AC1853-183C-4B9E-8F01-C9EC3DBA61D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
